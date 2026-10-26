@@ -1,5 +1,6 @@
 # Pyraminx-distribution
-Distribution of a pyraminx Rubik's cube. Traverses the graph with BFS until all the states are explored.
+Distribution of a pyraminx Rubik's cube. Note: it ignores the tips.
+Traverses the graph with BFS until all the states are explored.
 Inspired from `Import Math` [video](https://www.youtube.com/watch?v=4mja0aMUX_Y).
 
 ## How to use:
