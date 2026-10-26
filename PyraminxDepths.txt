@@ -1,0 +1,13 @@
+Depth 0: 1 positions:
+Depth 1: 8 positions:
+Depth 2: 48 positions: 
+Depth 3: 288 positions: 
+Depth 4: 1728 positions: 
+Depth 5: 9896 positions: 
+Depth 6: 51808 positions: 
+Depth 7: 220111 positions: 
+Depth 8: 480467 positions: 
+Depth 9: 166276 positions: 
+Depth 10: 2457 positions: 
+Depth 11: 32 positions: 
+Pyraminx Depth is 11, solved in 9.14 seconds
